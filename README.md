@@ -10,5 +10,4 @@ i. Enter the refference string without any spaces then press "SIMULATE" button. 
 ii. First enter the no. of Frames availabe. \
 # References
 Simulation link :- https://nicomedes.assistedcoding.eu/#/app/os/page_replacement \
-Algorithm Link : https://www.google.com/amp/s/www.geeksforgeeks.org/page-replacement-algorithms-in-o
-perating-systems/amp/  \
+Algorithm Link : https://www.google.com/amp/s/www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/amp/ 
